@@ -45,7 +45,7 @@
 								<div class="4u 12u$(medium)">
 									<header>
 										<h3>Why Temporal Reality?</h3>
-										<p>The Temporal Reality core team members all came from different modded Minecraft communies.. After we saw the direction they were taking, and the decisions they were making, we all agreed the changes they were making could harm the community. So we made our own.</p>
+										<!--<p>The Temporal Reality core team members all came from different modded Minecraft communies. After we saw the direction they were taking, and the decisions they were making, we all agreed the changes they were making could harm the community. So we made our own.</p>--><p>Temporal Reality offer a modded Minecraft launcher which aims to make sure that your modpack, no matter how popular you are, or the next guy is, will get treated equally. We also want to strive to be one of the most welcoming communities out there, by allowing similar equal treatment to every member of our community, whether you're a modpack developer, server host, or an avid player of modded Minecraft.</p>
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
